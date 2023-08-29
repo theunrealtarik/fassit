@@ -1,7 +1,12 @@
 # FASSIT
 FASSIT is a simple program designed to automate the process of clicking the "accept" button on the <a href="https://www.faceit.com/en/home">FACEIT</a> platform. If you're tired of manually accepting game invitations or match queues, FASSIT is here to help. 
 
-- <a href=""><b>DOWNLOAD</b></a>
+⬇️ <a href="">
+  **DOWNLOAD**
+</a>
+
+> **NOTE:**
+> The program *FASSIT.exe* must on the same screen where the FACEIT platform is opened (web/client)
 
 ## Development
 install the required dependencies:
